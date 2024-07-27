@@ -13,7 +13,7 @@ How to Run
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/calculator.git
+git clone https://github.com/JILLELLARAGHUNATH/Calculator-using-Tkinter.git
 Navigate to the project directory:
 bash
 Copy code
